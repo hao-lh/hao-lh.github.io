@@ -14,8 +14,3 @@ redirect_from:
 * Proficient with AWS, GCP, and Azure, and with Kubernetes and Docker for deploying and scaling production ML/LLM and developer-productivity services.
 * Track record of leading cross-functional projects from concept to production, aligning stakeholders, mentoring engineers, and driving adoption of new AI capabilities in mission-critical workflows.
 * Innovator with strong publication and patent contributions and a consistent history of turning research ideas into robust, revenue-impacting industrial solutions.
-
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
