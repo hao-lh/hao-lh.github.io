@@ -8,5 +8,5 @@ date: 2025-08-09
 location: "Online"
 ---
 
-[YouTube](https://www.youtube.com/watch?v=71mLNMqHQa0)
-[Slides](/files/talk-transformer-slides.pdf)
+- [YouTube](https://www.youtube.com/watch?v=71mLNMqHQa0)
+- [Slides](/files/talk-transformer-slides.pdf)
