@@ -15,7 +15,7 @@ redirect_from:
 * Track record of leading cross-functional projects from concept to production, aligning stakeholders, mentoring engineers, and driving adoption of new AI capabilities in mission-critical workflows.
 * Innovator with strong publication and patent contributions and a consistent history of turning research ideas into robust, revenue-impacting industrial solutions.
 
-[resume](/files/resume.pdf)
+<!-- [resume](/files/resume.pdf) -->
 
 A data-driven personal website
 ======
