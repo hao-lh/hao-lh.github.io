@@ -24,7 +24,7 @@ main:
     url: /blog/
     
   - title: "CV"
-    url: /files/cv-resume.pdf
+    url: /resume.pdf
     
   # - title: "Guide"
   #   url: /markdown/
