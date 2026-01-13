@@ -1,7 +1,7 @@
 ---
 title: "The Books Making You Better"
 date: 2016-12-12
-permalink: /git/the-books-making-you-better/
+permalink: /blog/the-books-making-you-better/
 tags:
   - projects
   - github
