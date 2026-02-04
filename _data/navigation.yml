@@ -25,6 +25,7 @@ main:
     
   - title: "CV"
     url: /resume.pdf
+    dev_only: true
     
   # - title: "Guide"
   #   url: /markdown/
