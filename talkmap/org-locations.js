@@ -5,7 +5,12 @@ var addressPoints = [
     3.8595132
   ],
   [
-    "Evaluation<br />Virtual / YouTube; Online",
+    "The Evolution of Retrieval-Augmented Generation (RAG)<br />Virtual / YouTube; Online",
+    43.5904719,
+    3.8595132
+  ],
+  [
+    "Model Evaluation<br />Virtual / YouTube; Online",
     43.5904719,
     3.8595132
   ],
