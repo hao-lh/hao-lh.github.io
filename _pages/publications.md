@@ -25,7 +25,7 @@ author_profile: true
 * **Journal:** [IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)
     * 2026, 2025, 2024, 2023
 * **Conference:** [IEEE International Conference on Image Processing (ICIP)](https://2025.ieeeicip.org/)
-    * 2025, 2024, 2023
+    * 2026, 2025, 2024, 2023
     * 🏆 **Top 10% Reviewer** (ICIP 2024)
 * **Conference:** [The British Machine Vision Conference (BMVC)](https://www.bmva.org/bmvc)
     * 2025, 2024, 2023
