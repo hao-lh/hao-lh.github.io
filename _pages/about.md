@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-* **AI/ML Tech Lead** with 10+ years shipping production systems across ML/LLMs; specialize in taking ambiguous problems from 0 -> 1 to scaled platforms with measurable workflow and reliability improvements.
+* **AI/ML Tech Lead** with 10+ years shipping production systems across ML/LLMs/VLMs; specialize in taking ambiguous problems from 0 -> 1 to scaled platforms with measurable workflow and reliability improvements.
 * **Led end-to-end enterprise LLM systems** (RAG/GraphRAG/Agentic workflows): knowledge modeling, hybrid retrieval + reranking, grounding/citations, safety guardrails, and continuous improvement loops (feedback -> eval -> retrain -> rollout).
 * **Strong ML systems engineering background** with high-performance inference/serving; expert at driving latency, throughput, and cost optimizations for high-traffic production environments (e.g., continuous batching, KV cache management, quantization, autoscaling).
 * **Built eval + release gating end-to-end:** offline benchmarks (faithfulness, groundedness, retrieval quality) + online monitoring; experienced in failure analysis, regression prevention, and incident-driven hardening.
