@@ -28,7 +28,7 @@ author_profile: true
     * 2026, 2025, 2024, 2023
     * 🏆 **Top 10% Reviewer** (ICIP 2024)
 * **Conference:** [The British Machine Vision Conference (BMVC)](https://www.bmva.org/bmvc)
-    * 2025, 2024, 2023
+    * 2026, 2025, 2024, 2023
     * 🏆 **Outstanding Reviewer** (BMVC 2024)
 * **Conference:** [The International Symposium on Visual Computing (ISVC)](https://www.isvc.net/)
     * 2025, 2024, 2023
